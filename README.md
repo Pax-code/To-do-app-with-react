@@ -1,3 +1,15 @@
+# ScreenShots
+
+
+
+![Screenshot_26](https://github.com/Pax-code/To-do-app-with-react/assets/58390807/3987824a-7ff4-4cf6-8a1c-1795c219465b)
+
+
+![Screenshot_27](https://github.com/Pax-code/To-do-app-with-react/assets/58390807/32378df2-f41b-4a90-a9b0-8ff71def0b03)
+
+
+![Screenshot_28](https://github.com/Pax-code/To-do-app-with-react/assets/58390807/95b7a979-954e-436c-ba37-0cf79098e12c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
